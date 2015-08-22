@@ -1,0 +1,9 @@
+git add unix_notes.txt = stage changes to repo
+then
+git commit -m “adding unix notes, second draft” = adds commit to repo
+—— you have to add before you can commit
+
+Head = most recent active commit
+-Every time you make a commit, you’re taking a snapshot
+
+git branch = tells you what branch you’re on
