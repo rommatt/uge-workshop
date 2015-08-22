@@ -1,6 +1,8 @@
 ls - la = gives you a full rundown of the repo, including hidden files
 .git = hidden file that contains all the repo info
 
+this is a text change
+
 pwd
 history | less
 history
