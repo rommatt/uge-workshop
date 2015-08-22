@@ -1,0 +1,116 @@
+pwd
+history | less
+history
+history 7
+history 4
+history 5
+history 2
+history
+ls
+ls .
+ls /Applications/  // this is a note
+ls Applications/
+ls /
+ls ~
+cd ~
+cd /
+cd /etc
+~
+/
+cd ../..
+/Applications/
+/Application
+cd ..            // this is another note
+cd Dropbox
+ls -l
+mkdir My Dir
+cd /Users/matt1
+cd /Users/Matt1
+cd
+man ls
+ls -h
+ls -s
+ls -g
+ls -t
+ls-t
+la -t
+man cd
+man
+ls -r
+ls -lr
+ls -lt
+cd documents
+git checkout
+git branch Issue#1
+git branch -d
+git branch -av
+git config --list
+git merge
+less
+fish --version
+git --diff
+diff
+git help
+brew --version
+homebrew --version
+node --version
+ruby --version
+ruby --v
+npm --version
+git commit -a
+git --version
+git commit
+git exit
+q
+exit
+git checkout HEAD
+git reset --hard HEAD
+git init
+git log
+got log
+git new repo
+grep
+giv --version
+apropos env
+env
+apropos
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'rom.matt@gmail.com'
+git config --global user.name 'Matt Omeara'
+git config --global user.name "Matt O'Meara"
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+uname
+grunt
+npm install -g grunt-cli
+grunt version
+grunt build
+npm install && grunt build && grunt
+git checkout -b patch-1
+cd animsition
+node version
+node v
+grunt v
+brew install grunt
+npm v
+brew install npm
+brew insall npm
+brew install node
+ld
+list dir
+git clone https://github.com/blivesta/animsition.git
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby v
+ruby version
+git install homebrew
+git version
+git v
