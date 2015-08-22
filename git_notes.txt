@@ -7,3 +7,16 @@ Head = most recent active commit
 -Every time you make a commit, you’re taking a snapshot
 
 git branch = tells you what branch you’re on
+
+git branch git-notes = creates new branch names git-notes
+git checkout git-notes
+
+Remotes = serve as a way to share work with other developers
+Create a new repo, then do -
+git remote add origin https://github.com/rommatt/uge-workshop.git
+git remote -v
+
+do
+git checkout master = to switch to master branch
+need to push to github (remote repo)
+git push -u origin master = pushes changes to github, usually asks for username/password
